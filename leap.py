@@ -8,4 +8,4 @@ if __name__ == "__main__":
     if is_leap(year):
         print(year, "is a leap year")
     else:
-        print(year, "is not leap year")\
+        print(year, "is not leap year")
